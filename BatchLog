@@ -1,0 +1,35 @@
+2020-11-07 13:01:44,054 ERROR getUnprocessedMessages(137) !! Traceback (most recent call last):
+!!   File "C:\WG39\ProcessSortMessages.py", line 125, in getUnprocessedMessages
+    cursor.execute(sql)
+!! pyodbc.ProgrammingError: ('42000', '[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]SHUTDOWN is in progress. (6005) (SQLExecDirectW)')
+
+2020-11-07 13:34:39,916 ERROR getUnprocessedMessages(137) !! Traceback (most recent call last):
+!!   File "C:\WG39\ProcessSortMessages.py", line 125, in getUnprocessedMessages
+    cursor.execute(sql)
+!! pyodbc.ProgrammingError: ('42000', '[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]SHUTDOWN is in progress. (6005) (SQLExecDirectW)')
+
+2020-11-08 19:45:13,729 ERROR getUnprocessedMessages(137) !! Traceback (most recent call last):
+!!   File "E:\WG39\ProcessSortMessages.py", line 125, in getUnprocessedMessages
+    cursor.execute(sql)
+!! pyodbc.ProgrammingError: ('42000', '[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]SHUTDOWN is in progress. (6005) (SQLExecDirectW)')
+
+2020-11-08 19:55:34,407 ERROR getUnprocessedMessages(137) !! Traceback (most recent call last):
+!!   File "E:\WG39\ProcessSortMessages.py", line 125, in getUnprocessedMessages
+    cursor.execute(sql)
+!! pyodbc.ProgrammingError: ('42000', '[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]SHUTDOWN is in progress. (6005) (SQLExecDirectW)')
+
+2020-11-09 05:37:05,698 ERROR getUnprocessedMessages(137) !! Traceback (most recent call last):
+!!   File "E:\WG39\ProcessSortMessages.py", line 125, in getUnprocessedMessages
+    cursor.execute(sql)
+!! pyodbc.ProgrammingError: ('42000', '[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]SHUTDOWN is in progress. (6005) (SQLExecDirectW)')
+
+2020-11-09 10:09:33,834 ERROR getUnprocessedMessages(137) !! Traceback (most recent call last):
+!!   File "E:\WG39\ProcessSortMessages.py", line 125, in getUnprocessedMessages
+    cursor.execute(sql)
+!! pyodbc.ProgrammingError: ('42000', '[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]SHUTDOWN is in progress. (6005) (SQLExecDirectW)')
+
+2020-11-10 16:41:43,832 ERROR getUnprocessedMessages(137) !! Traceback (most recent call last):
+!!   File "E:\WG39\ProcessSortMessages.py", line 125, in getUnprocessedMessages
+    cursor.execute(sql)
+!! pyodbc.ProgrammingError: ('42000', '[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]SHUTDOWN is in progress. (6005) (SQLExecDirectW)')
+
